@@ -1,0 +1,35 @@
+bootsrap js and react node
+monday monday 17-03-2025
+
+steps to create a new git repo;
+1. login to github
+2. On top right of the window click plus and select new repository
+3. give repository name
+4. add a description
+5. keep it public
+6. select the checkbox Add a README file
+7. click create repository
+
+GIT COMMANDS
+1.$ git command
+The above command used to know the current status of the repo
+2.$ git clone https://github.com/sudeepk18/pfile_fe_mar25
+The above command copies the repo from the server(Remote repo)into our computer
+3.$ git pull origin make
+this command downloads the updated main here is the default branch name
+4.$ git config --global user.name "sudeepk18"
+5.$ git config --global user.email "sudeepkharvi18@gmail.com"
+
+STEPS TO CREATE PERSONAL ACCESS TOKEN(PAT)
+1.click on profile icon
+2.scroll down and click settings
+3.In the new window scroll down and click developers settings on the left corner
+4.In the window on top left click tokens and then select tokens classic
+5.
+6.this pat
+7.click expiery and select no expiery
+8.select the checkbox Repo
+9.scroll down and click generate tokens
+10.copy the pat and mail to yourself
+
+STEPS TO SINK REMOTE REPO WITH LOCAL
